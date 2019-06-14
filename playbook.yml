@@ -3,5 +3,5 @@
   tasks: 
   - name: Create folder
     file:
-        path: /samplefile/
-        state: directory
+      path: /samplefile/
+      state: directory
